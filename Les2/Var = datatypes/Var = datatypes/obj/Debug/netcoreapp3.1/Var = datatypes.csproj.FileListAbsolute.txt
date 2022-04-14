@@ -1,0 +1,14 @@
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\bin\Debug\netcoreapp3.1\Var = datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Var = datatypes\Var = datatypes\obj\Debug\netcoreapp3.1\Var = datatypes.genruntimeconfig.cache

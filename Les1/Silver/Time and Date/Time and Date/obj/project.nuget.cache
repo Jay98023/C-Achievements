@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzZimiR9VqyXankqiwogUxM3IsCeC2MXh7kIsprX4X+s7/UZNuim2St5QbsaKJqOc0P/5QgpbbdUIRWjeITS7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jayde\\Favorites\\GitHub\\School\\Periode 3\\C# Achievements\\Les1\\Time and Date\\Time and Date\\Time and Date.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jayde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Jayde\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jayde\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jayde\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

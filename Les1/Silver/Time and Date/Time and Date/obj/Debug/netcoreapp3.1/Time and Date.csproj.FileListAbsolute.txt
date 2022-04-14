@@ -1,0 +1,26 @@
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.exe
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\bin\Debug\netcoreapp3.1\Time and Date.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Time and Date\Time and Date\obj\Debug\netcoreapp3.1\Time and Date.GeneratedMSBuildEditorConfig.editorconfig

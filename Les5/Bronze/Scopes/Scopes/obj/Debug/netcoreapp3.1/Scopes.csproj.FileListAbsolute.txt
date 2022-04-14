@@ -1,0 +1,27 @@
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.exe
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.GeneratedMSBuildEditorConfig.editorconfig

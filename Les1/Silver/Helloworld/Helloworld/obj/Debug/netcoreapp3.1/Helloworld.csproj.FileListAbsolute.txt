@@ -1,0 +1,27 @@
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Helloworld\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache

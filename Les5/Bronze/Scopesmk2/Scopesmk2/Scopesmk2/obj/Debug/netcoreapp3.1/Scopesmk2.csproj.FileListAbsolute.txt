@@ -1,0 +1,14 @@
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\bin\Debug\netcoreapp3.1\Scopesmk2.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Scopesmk2\Scopesmk2\Scopesmk2\obj\Debug\netcoreapp3.1\Scopesmk2.genruntimeconfig.cache

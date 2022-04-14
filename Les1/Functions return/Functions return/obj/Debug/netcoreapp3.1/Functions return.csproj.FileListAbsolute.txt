@@ -1,0 +1,39 @@
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfoInputs.cache
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfo.cs
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.exe
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.deps.json
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.json
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.dev.json
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\source\repos\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\source\repos\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.exe
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\bin\Debug\netcoreapp3.1\Functions return.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les1\Functions return\Functions return\obj\Debug\netcoreapp3.1\Functions return.GeneratedMSBuildEditorConfig.editorconfig

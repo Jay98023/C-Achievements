@@ -1,0 +1,27 @@
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.exe
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Program.cs\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\bin\Debug\netcoreapp3.1\Program.cs.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Rekenmachine\Program.cs\obj\Debug\netcoreapp3.1\Program.cs.GeneratedMSBuildEditorConfig.editorconfig

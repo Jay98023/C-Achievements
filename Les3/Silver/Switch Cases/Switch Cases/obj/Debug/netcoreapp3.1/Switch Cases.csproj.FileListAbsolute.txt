@@ -1,0 +1,39 @@
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.exe
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les2\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.exe
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\bin\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les3\Switch Cases\Switch Cases\obj\Debug\netcoreapp3.1\Switch Cases.GeneratedMSBuildEditorConfig.editorconfig

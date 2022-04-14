@@ -1,0 +1,14 @@
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\bin\Debug\netcoreapp3.1\Int array.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Int array\Int array\obj\Debug\netcoreapp3.1\Int array.genruntimeconfig.cache

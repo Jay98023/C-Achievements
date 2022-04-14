@@ -1,0 +1,27 @@
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.exe
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\New folder\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\bin\Debug\netcoreapp3.1\Variables and Datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les2\Variables and Datatypes\Variables and Datatypes\obj\Debug\netcoreapp3.1\Variables and Datatypes.GeneratedMSBuildEditorConfig.editorconfig

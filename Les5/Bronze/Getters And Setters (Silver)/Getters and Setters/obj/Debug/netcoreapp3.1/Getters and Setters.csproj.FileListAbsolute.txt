@@ -1,0 +1,14 @@
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.exe
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.deps.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\bin\Debug\netcoreapp3.1\Getters and Setters.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.dll
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.pdb
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.genruntimeconfig.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.csproj.AssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\School\Periode 3\C# Achievements\Les5\Getters and Setters\Getters and Setters\obj\Debug\netcoreapp3.1\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
